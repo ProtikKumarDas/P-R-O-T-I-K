@@ -5,7 +5,7 @@
 - 🔭 At present, I am a student!
 - 🌱 I’m currently learning React with necessary stuffs
 - 👯 Practicing and Learning and Looking forward to contribute 
-- 🥅 Goal: Become a Pro Full Stack Web(MERN) Developer
+- 🥅 Goal: Become a Full Stack Web(MERN) Developer [Web App]
 - ⚡ Fun fact: Pulls hair when get stuck in solving Programming problems and errors.. 🤣🤣
 
 <br/>
@@ -15,12 +15,12 @@
  ### ***🔗 &nbsp; Connect with me***
 <p align="center">
 <a href="https://dev.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://hackerrank.com/_PROTIK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://hackerrank.com/_PROTIK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
   
 <br/>
@@ -55,8 +55,8 @@
 <br/>
 <hr>
 <br/>
-<img align="left" alt="PROTIK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=P-R-O-T-I-K&show_icons=true&hide_border=true&bg_color=091921&text_color=ffffff" />
+<img align="left" alt="PROTIK's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=P-R-O-T-I-K&hide=commits&show_icons=true&hide_border=true&bg_color=091921&text_color=ffffff" />
  
  <h2>Profile Visits </h2>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=P-R-O-T-I-K.P-R-O-T-I-K)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=P-R-O-T-I-K.P-R-O-T-I-K)
